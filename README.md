@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Saad
 - 👀 I’m interested in ... music and solving issues
-- 🌱 I’m currently learning Java JEE VueJS and Laravel 
-- 💞️ I’m looking to collaborate on new projects !
+- 🌱 I’m currently learning Java / Selenium Web Automation
+- 💞️ I’m looking to collaborate on new Software automation projects !
 - 📫 How to reach me Linkdin 
 
 <!---
